@@ -1,4 +1,6 @@
-Supply and Demand Strategy: https://www.flowbank.com/en/research/price-action-trading-strategy-supply-demand-zones
+Overview of supply and demand trading strategy: https://www.flowbank.com/en/research/price-action-trading-strategy-supply-demand-zones
+
+Using cnns to analyze TPO profile was inspired from: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9693504
 
 Supply and Demand.ipnyb contains scripts for compiling supply/demand zones
 
